@@ -1,0 +1,8 @@
+names:
+- Bengin cases
+- Normal cases
+- Malignant cases
+nc: 3
+test: /Users/kimhongseok/cv_79_projects/part2/18/data/lung_cancer/test
+train: /Users/kimhongseok/cv_79_projects/part2/18/data/lung_cancer/train
+valid: /Users/kimhongseok/cv_79_projects/part2/18/data/lung_cancer/valid
