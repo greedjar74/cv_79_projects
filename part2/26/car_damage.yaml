@@ -1,0 +1,9 @@
+names:
+- Scratched
+- Breakage
+- Separated
+- Crushed
+nc: 4
+test: /Users/kimhongseok/cv_79_projects/part2/26/data/test
+train: /Users/kimhongseok/cv_79_projects/part2/26/data/train
+val: /Users/kimhongseok/cv_79_projects/part2/26/data/valid
